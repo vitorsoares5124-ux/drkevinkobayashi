@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100">
+  <rect width="100%" height="100%" fill="#F8F8F8"/>
+  <rect x="20" y="20" width="860" height="1060" fill="none" stroke="#E8E8E8" stroke-width="2"/>
+  <circle cx="450" cy="480" r="90" fill="#EEEEEE" stroke="#E0E0E0" stroke-width="2"/>
+  <path d="M420 480 L480 480 M450 450 L450 510" stroke="#999" stroke-width="2"/>
+  <text x="450" y="630" font-family="'Inter', sans-serif" font-size="22" font-weight="500" fill="#0A0A0A" text-anchor="middle">assets/dentista/detalhe-resina.jpg</text>
+  <text x="450" y="670" font-family="'Inter', sans-serif" font-size="15" fill="#6B6B6B" text-anchor="middle">Foto macro/detalhe de acabamento e polimento de resina</text>
+</svg>

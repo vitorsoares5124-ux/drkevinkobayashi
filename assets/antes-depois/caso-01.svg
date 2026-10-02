@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" width="1000" height="750">
+  <rect width="100%" height="100%" fill="#F6F6F6"/>
+  <rect x="20" y="20" width="960" height="710" fill="none" stroke="#E8E8E8" stroke-width="2"/>
+  <line x1="500" y1="20" x2="500" y2="730" stroke="#E0E0E0" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="250" y="70" font-family="'Inter', sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#6B6B6B" text-anchor="middle">ANTES</text>
+  <text x="750" y="70" font-family="'Inter', sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#0A0A0A" text-anchor="middle">DEPOIS</text>
+  <circle cx="500" cy="380" r="70" fill="#EBEBEB" stroke="#D8D8D8" stroke-width="2"/>
+  <text x="500" y="500" font-family="'Inter', sans-serif" font-size="20" font-weight="500" fill="#0A0A0A" text-anchor="middle">assets/antes-depois/caso-01.jpg</text>
+  <text x="500" y="535" font-family="'Inter', sans-serif" font-size="14" fill="#6B6B6B" text-anchor="middle">Fechamento de diastema e reanatomização</text>
+</svg>

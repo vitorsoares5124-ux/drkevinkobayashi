@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <rect width="100%" height="100%" fill="#F5F5F5"/>
+  <rect x="20" y="20" width="760" height="960" fill="none" stroke="#E8E8E8" stroke-width="2"/>
+  <circle cx="400" cy="420" r="100" fill="#EAEAEA" stroke="#DCDCDC" stroke-width="2"/>
+  <path d="M370 420 L430 420 M400 390 L400 450" stroke="#999" stroke-width="2"/>
+  <text x="400" y="580" font-family="'Inter', sans-serif" font-size="22" font-weight="500" fill="#0A0A0A" text-anchor="middle">assets/dentista/dr-kevin-kobayashi.jpg</text>
+  <text x="400" y="620" font-family="'Inter', sans-serif" font-size="15" fill="#6B6B6B" text-anchor="middle">Foto profissional do Dr. Kevin Kobayashi (Proporção: 4:5)</text>
+</svg>
